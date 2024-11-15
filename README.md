@@ -1,13 +1,15 @@
 # Snake Project
 
 ## Description
-This project is an implementation of the classic Snake game using Python. The goal of the game is to control a snake that grows by eating objects while avoiding obstacles and walls.
+This project is an implementation of the classic Snake game using the Pygame library in Python. The goal of the game is to control a snake that grows and gets points by eating objects while avoiding obstacles and walls.
 
 ## Features
 - Control the snake with arrow keys
-- Increase the length of the snake when it eats an object
-- Handle collisions with walls and the snake's body
+- Increase the length of the snake when it eats a fruit
+- Manage the window size
 - Display the score
+- Store the scoreboard in json format
+- Amazing music and graphics
 
 ## Prerequisites
 - Python 3.8+
