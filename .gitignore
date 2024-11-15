@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+.pytest_cache/
+__pycache__/
+.snakeVenv/
+.vscode/
